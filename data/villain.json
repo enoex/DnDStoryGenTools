@@ -1,0 +1,33 @@
+{
+    "who": [
+        "parents",
+        "best friend",
+        "family",
+        "relative",
+        "mother",
+        "father",
+        "sister",
+        "brother",
+        "nephew"
+    ],
+    "how": [
+        "tortur",
+        "poison",
+        "stabbing",
+        "drowning",
+        "given a disease",
+        "death camp",
+        "trampled by horses",
+        "pushed off a building"
+    ],
+    "source": [
+        "stranger",
+        "government",
+        "relative",
+        "monarch",
+        "friend",
+        "son",
+        "daughter",
+        "unknown assassin"
+    ]
+}
